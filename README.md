@@ -1,1 +1,4 @@
 # final_exam
+Koi bhi kaam teen hisso mein bata sakte hain. Pehla — decide karna ke "sahi" kya hota hai. Dusra — asal mein kaam karna. Teesra — check karna ke kaam sahi hua ya nahi.
+Chota sa example lo: ek chai ka thela. Malik decide karta hai ke chai kitni strong honi chahiye aur kya achi chai hai. Chai banane wala banata hai. Koi taste karta hai serve karne se pehle. Teen alag kaam, ek chotay se thele mein bhi.
+Ab yeh important baat: AI ab "banane" wale kaam mein bahut tez ho rahi hai — code likhna, text likhna, cheezein jaldi bana dena. Lekin "decide karna" aur "check karna" abhi bhi insaan ko karna parta hai. Isi liye market mein naye naye job titles aa rahe hain — yeh sab un logon ke naam hain jo "decide" ya "check" wala kaam sambhalte hain, kyunke "banane" wala kaam AI zyada le rahi hai.
