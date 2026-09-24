@@ -10,3 +10,20 @@ Cloud AI Engineer — un sab ko live chalata hai, roz ka operation sambhalta hai
 Example: farz karo ek company chahti hai ke AI customer ke emails ka jawab de. Outcome Architect decide karega "achha jawab" kya hota hai. Builder us AI worker ko banayega. Architect decide karega yeh worker baaki system se kaise connect hoga. Engineer usay live rakhega, chalta rahe.
 Yeh chaar log mil kar wahi "decide → do → check" ka poora cycle chalate hain, bas bara scale par.
 Ab socho: agar aap khud kabhi kaam karti hain ya karoge jahan AI involved ho, in chaar mein se konsa role aapko sabse zyada interesting lagta hai — sirf decide karna ke kya banana hai, ya poori system design karna, ya usay chalate rehna?
+////////////////////////////////////////////////////////////////////////////////////Link 2
+Har AI tool ke 2 parts hote hain:
+Harness — jo aapke computer pe chalta hai (jaise Claude Code)
+Brain (Model) — jo sochta hai aur jawab deta hai
+
+Yeh dono ek address se connect hote hain — jaise phone number. Address badlo, to wahi tool ab kisi aur "brain" se baat karta hai.
+
+AI kahan chalti hai, iske 3 tareeqe (tiers):
+
+Laptop (Local) — free, private, offline chalta hai, lekin slow ho sakta hai
+Apna Server — ek strong machine jo ek sath bohat sare logon ko serve kare (jaise classroom)
+Cloud — sabse bara aur powerful model, lekin paisay lagte hain aur data internet pe jata hai
+
+Do "walls" jo decide karti hain local AI kaam karegi ya nahi:
+
+Capability wall — kya model itna samajhdar hai ke sahi command samajh sake? (isay behtar model theek karta hai)
+Throughput wall — kya machine itni fast hai ke jaldi jawab de? (isay behtar hardware/GPU theek karta hai)
