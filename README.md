@@ -16,14 +16,17 @@ Harness — jo aapke computer pe chalta hai (jaise Claude Code)
 Brain (Model) — jo sochta hai aur jawab deta hai
 
 Yeh dono ek address se connect hote hain — jaise phone number. Address badlo, to wahi tool ab kisi aur "brain" se baat karta hai.
-
 AI kahan chalti hai, iske 3 tareeqe (tiers):
-
 Laptop (Local) — free, private, offline chalta hai, lekin slow ho sakta hai
 Apna Server — ek strong machine jo ek sath bohat sare logon ko serve kare (jaise classroom)
 Cloud — sabse bara aur powerful model, lekin paisay lagte hain aur data internet pe jata hai
-
 Do "walls" jo decide karti hain local AI kaam karegi ya nahi:
-
 Capability wall — kya model itna samajhdar hai ke sahi command samajh sake? (isay behtar model theek karta hai)
 Throughput wall — kya machine itni fast hai ke jaldi jawab de? (isay behtar hardware/GPU theek karta hai)
+Bilkul sahi soch rahi hain — yeh analogy kaafi qareeb hai!
+Aapki misal: free wala kamzor brain, pro wala thora behtar aur expensive, ultra pro sabse powerful aur sabse mehnga — yeh bilkul theek pattern hai.
+Bas ek chhoti si baat clear kar doon: yeh sirf "ek hi company ke plans" (jaise free/pro/ultra ek hi app ke) nahi hain — balke yeh bilkul alag brains (models) hain, jo kabhi alag alag companies ne banaye hote hain. Jaise:
+Laptop wala — chota, weak, free
+Server wala — thora bara, aapki apni machine pe, thora paisa (bijli/rent)
+Cloud wala — duniya ka sabse powerful model, jahan har lafz (token) ka paisa lagta hai
+Lekin overall pattern bilkul sahi pakra: jitna powerful brain utna zyada cost, aur address badal ke aap decide karte ho konsa brain use karna hai.
